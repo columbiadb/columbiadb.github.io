@@ -3,8 +3,8 @@
 * [Eugene Wu](http://www.eugenewu.net) (Instructor)
 * Weds 4-6PM 503 Hamilton Hall
 * [Syllabus](./syllabus)
-* [Piazza](https://piazza.com/class/ivpqa35byxu4o)
-* [Course Github](https://github.com/columbiaviz/) 
+* [Piazza](https://piazza.com/class/j9oswjjbpyj3uz)
+* Course Github
 
 #### Prereqs
 
