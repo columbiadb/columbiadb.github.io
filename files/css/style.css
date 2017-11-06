@@ -19,8 +19,10 @@ body {
 
 
 .footer {
-  background-color: #eef;
+  background-color: #e4f9ff;
+  border-top: 3px solid #2f908c;
   font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 2em;
   padding: 0.75em 1em;
   font-size: .8em;
   font-style: italic;
@@ -137,3 +139,5 @@ p.centered, div.centered {
 div.joiner {
   clear: both;
 }
+
+

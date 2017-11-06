@@ -3,16 +3,17 @@ layout: page
 ---
 
 
-#### Learning Outcomes
+#### Overview
 
-Students will:
+This seminar course is a followup to Introduction to Databases (W4111) and is centered around reading research papers, evaluating ideas in the research papers, and working on a semester-long  [research project](./projects).
 
-* Be able to design effective database schemas for realistic applications
-* Become proficient in using relational, key-value, document, and graph database systems
-* Understand the basics of transactions
-* Gain an introductory background in indexing, concurrency control, and recovery
-* Be able to integrate databases into applications using both lightweight and ORM frameworks
-* Understand what is meant by polyglot persistence and NoSQL
+Topics will likely include:
+
+* High performance, data-intensive systems (e.g., Spark, HTAP/OLAP, Streaming, ML systems)
+* Modern data cleaning (e.g., integration, quantitative cleaning, data fusion)
+* Data-intensive visualization (e.g., DVMS, approximation, exploration)
+* Database security and privacy (e.g., encrypted databases, secure querying)
+* Collaborative data analytics (e.g., data lakes)
 
 #### Course Expectations
 
@@ -34,17 +35,14 @@ For assignments, you allowed 5 penalty free late days to use throughout the seme
 
 #### Project (semester long)
 
-You will pursue a [semester long research project](./proposals) related to this course.
+You will pursue a [semester long research project](./projects) related to this course.
 The project is a significant part of the course grade.
 
 
 #### Paper Questions (every class)
 
 You are expected to answer the short questions associated with the readings every course.
-The class reviews must be submitted by **9PM the day before class**.
-
-{: .btn :}
-[Add your answers to the appropriate lecture's wiki page](https://github.com/columbiaviz/columbiaviz.github.io/wiki)
+The class reviews must be submitted in Piazza by **9PM the day before class**.
 
 
 #### Paper Presentations
@@ -58,7 +56,6 @@ You will be asked to complete three milestones for the presentation. Their purpo
 2. **1 week before your presentation**: present to two or more classmates and get feedback.  The classmates should send me their notes from the presentation.
 3. **Day of class**: give awesome presentation
 
-{: .btn :}
 [Submit the teammates and papers to present](https://goo.gl/forms/4ymov5u7dFo2k7Ft1)
 
 

@@ -3,29 +3,17 @@ layout: page
 title: E6998.003 Research Project
 ---
 
-# This page is in progress
-
 ## Important Dates and What to Hand In
 
-<style>
-.project tr td:first-child {
-  width: 15%;
-  font-weight: bold;
-}
-.project tr td:nth-child(2) {
-  width: 15%;
-}
-</style>
 
-
-{: .table .project :}
-| Project Teams |   2/1 |  -  |
-| Prospectus    |   2/8 |  15% |
-| Midpoint Review |  3/01 | 5%  |
-| Poster Session |  5/3 |  15% |
-| Report         | 5/5 (edited: 5/10 midnight) |   65% |
+* Project Teams    2/1 
+* Prospectus       2/8    (15%)
+* Midpoint Reviews   3/01  (5%)
+* Poster Session   5/3    (15%)
+* Report          5/5     (65%)
 
 #### Project Teams
+
 Teams should consist of 1-3 people. In addition, if you have a project in mind, please indicate briefly (1--2 sentences) what you are thinking. We have included a list of possible projects at the end of this document although you are not required to choose from these. 
 
 **Submission**
@@ -84,13 +72,12 @@ Because this report is the primary deliverable upon which you will be graded, **
 1. Rename the filename of your report to the following format, last names should be in alphabetical order. `report_<lastname1>_<lastname2>.._<lastnameN>.pdf`
 2. [Upload the file by 11:59PM EST](https://www.dropbox.com/request/7qrVOSxks22F22zXQl0C)
 
-## What is Expected
+#### What is Expected
 
 Good class projects can vary dramatically in complexity, scope, and topic. The only requirement is that they be related to something we have studied in this class and that they contain some element of research -- e.g., that you do more than simply engineer a piece of software that someone else has described or architected. To help you determine if your idea is of reasonable scope, we will arrange to meet with each group several times throughout the semester.
 
-<!--
 
-# Project Suggestions
+### Project Suggestions
 
 The following are examples of possible projects -- they are by no means a complete list and you are free to select your own projects.  In general, projects can be of three varieties:
 
@@ -100,7 +87,16 @@ The following are examples of possible projects -- they are by no means a comple
 4. End-to-end system: identify a new modality or new exploration approach for a particular domain and build a prototype that a normal person could use.
 
 
-### More Well-defined Projects
+#### Data Cleaning
+
+* Survey Science/Nature journals for types of data cleaning applied
+
+#### Visualization and Exploration
+
+* Precision Interfaces
+* Smoke
+* DVMS
+
 
 The steps to complete the following projects are relatively well-defined.  All of them have the potential to be publishable work. Your report _does not need to be published_ to do well in the class.
 
@@ -184,4 +180,3 @@ Recommendations and Predictions
 https://www.gwern.net/Black-market%20archives
 WHere will you send your agents? 
 
--->

@@ -11,6 +11,7 @@
 * Required: W4111 Intro to Databases
 * Preferred: W4112 DB Implementation
 * Preferred: E6111 Advanced DB Systems
+* Ugrads welcome; talk to instructor
 
 
 
