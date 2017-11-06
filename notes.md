@@ -1,14 +1,30 @@
 Database Topics in Research and Practice
 
 
-Speakers
+## Speakers
 
-* Stavros
-* Anant
+High perf data proc
+
+* Stavros (emailed)
 * Madden?
-* Adam Marcus
+* Justin Debrabant (emailed) 
+* DataBricks (emailed)
 * Evan Jones
-* Justin Debrabant
-* DataBricks
-* Trifacta?
+
+Collaborative Data
+
+* Anant (emailed)
+
+
+Crowd
+
+* Adam Marcus (emailed)
+
+ML
+
+* DeterminedAI (emailed)
+
+Cleaning 
+
+* Trifacta (emailed)
 * Tamr?

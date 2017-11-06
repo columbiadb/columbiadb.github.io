@@ -21,11 +21,12 @@ Course is capped at 25 students.  Students are expected to actively participate 
 * 1/31
 * 2/07
 * 2/14
-* 2/21
+* 2/21: 
 * 2/28
 * 3/07
-* 3/14
-* 3/21
+* 3/14: Spring Recess
+* 3/21:  TileDB
+  * Presenter: Stavros Papadopoulos 
 * 3/28
 * 4/04
 * 4/11

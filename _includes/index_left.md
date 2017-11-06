@@ -34,4 +34,4 @@
 
 The course will involve invited speakers from industry and academia to compare and contrast research and practice, as well as transitioning between the two disciplines.
 
-* TBD
+* Stavros Papadopoulos (CEO, [TileDB](http://tiledb.io/))
