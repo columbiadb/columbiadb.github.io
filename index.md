@@ -24,7 +24,8 @@ Course is capped at 25 students.  Students are expected to actively participate 
 * 2/21: TileDB 
   * Presenter: Stavros Papadopoulos
 * 2/14
-* 2/28
+* 2/28: Instabase
+  * Presenter: Anant Bhardwaj
 * 3/07
 * 3/14: Spring Recess
 * 3/21:  

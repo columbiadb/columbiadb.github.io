@@ -37,4 +37,5 @@ The course will involve invited speakers from industry and academia to compare a
 * [Frank Wang](https://frankwang.org/) (MIT PhD Candidate, [Cybersecurity Foundry](https://cybersecurityfactory.com/))
 * [Stavros Papadopoulos](https://people.csail.mit.edu/stavrosp/) (CEO, [TileDB](http://tiledb.io/))
 * [Evan Jones](http://www.evanjones.ca/) (MIT PhD, BlueCore)
+- [Anant Bhardwaj](http://people.csail.mit.edu/anantb/) (CEO, [Instabase](http://www.instabase.com))
 
