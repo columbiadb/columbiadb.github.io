@@ -18,7 +18,8 @@ Students are expected to actively participate in discussions.
 
 * 1/17: Introduction
   * Presenter: Eugene
-* 1/24
+* 1/24: Crouwdsourcing
+  * Presenter: Adam Marcus
 * 1/31: Secure Databases
   * Presenter: [Frank Wang](https://frankwang.org/)
 * 2/07

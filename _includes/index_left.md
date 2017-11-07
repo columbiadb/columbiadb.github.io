@@ -38,4 +38,5 @@ The course will involve invited speakers from industry and academia to compare a
 * [Stavros Papadopoulos](https://people.csail.mit.edu/stavrosp/) <small>CEO, [TileDB](http://tiledb.io/)</small>
 * [Evan Jones](http://www.evanjones.ca/) <small>MIT PhD, BlueCore</small>
 - [Anant Bhardwaj](http://people.csail.mit.edu/anantb/) <small>CEO, [Instabase](http://www.instabase.com)</small>
+* Adam Marcus <small>CTO, [b12](http://www.b12.io)</small>
 
