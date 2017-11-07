@@ -1,7 +1,7 @@
 #### Information 
 
 * [Eugene Wu](http://www.eugenewu.net) (Instructor)
-* Weds 4-6PM 503 Hamilton Hall
+* Weds 4-6PM LOC TBA
 * [Syllabus](./syllabus)
 * [Piazza](https://piazza.com/class/j9oswjjbpyj3uz)
 * Course Github
