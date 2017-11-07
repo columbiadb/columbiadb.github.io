@@ -8,7 +8,9 @@ Data is eating the world and developing next generation data-driven applications
 
 This course will survey modern research in data management -- from large scale data processing, modern database engines, to data cleaning and visualization, to secure data management.  To ground the discussion, we will host invited speakers that have transitioned from research to industry (and sometimes back!).
 
-Course is capped at 25 students.  Students are expected to actively participate in discussions.
+Students are expected to actively participate in discussions.  
+
+Course is capped at 25 students.  If waitlist overflows, there will be a small assignment to choose participants.
 
 
 
