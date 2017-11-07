@@ -34,4 +34,6 @@
 
 The course will involve invited speakers from industry and academia to compare and contrast research and practice, as well as transitioning between the two disciplines.
 
+* [Frank Wang](https://frankwang.org/) (MIT PhD Candidate, [Cybersecurity Foundry](https://cybersecurityfactory.com/))
 * Stavros Papadopoulos (CEO, [TileDB](http://tiledb.io/))
+

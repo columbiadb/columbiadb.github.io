@@ -18,7 +18,8 @@ Course is capped at 25 students.  Students are expected to actively participate 
 * 1/17: Introduction
   * Presenter: Eugene
 * 1/24
-* 1/31
+* 1/31: Secure Databases
+  * Presenter: [Frank Wang](https://frankwang.org/)
 * 2/07
 * 2/14
 * 2/21: 
