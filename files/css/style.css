@@ -141,3 +141,16 @@ div.joiner {
 }
 
 
+@media (max-width: 989px) { 
+  body, p {
+    font-size: 17pt;
+  }
+  .container {
+    width: 60%;
+  }
+  .content {
+    margin: none;
+    padding: 1em;
+  }
+
+}
