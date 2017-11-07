@@ -34,8 +34,8 @@
 
 The course will involve invited speakers from industry and academia to compare and contrast research and practice, as well as transitioning between the two disciplines.
 
-* [Frank Wang](https://frankwang.org/) (MIT PhD Candidate, [Cybersecurity Foundry](https://cybersecurityfactory.com/))
-* [Stavros Papadopoulos](https://people.csail.mit.edu/stavrosp/) (CEO, [TileDB](http://tiledb.io/))
-* [Evan Jones](http://www.evanjones.ca/) (MIT PhD, BlueCore)
-- [Anant Bhardwaj](http://people.csail.mit.edu/anantb/) (CEO, [Instabase](http://www.instabase.com))
+* [Frank Wang](https://frankwang.org/) <small>(Founder, [Cybersecurity Foundry](https://cybersecurityfactory.com/))</small>
+* [Stavros Papadopoulos](https://people.csail.mit.edu/stavrosp/) <small>(CEO, [TileDB](http://tiledb.io/))</small>
+* [Evan Jones](http://www.evanjones.ca/) <small>(MIT PhD, BlueCore)</small>
+- [Anant Bhardwaj](http://people.csail.mit.edu/anantb/) <small>(CEO, [Instabase](http://www.instabase.com))</small>
 
