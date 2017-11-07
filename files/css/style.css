@@ -141,9 +141,9 @@ div.joiner {
 }
 
 
-@media (max-width: 989px) { 
+@media only screen and (max-width: 989px) { 
   body, p {
-    font-size: 17pt;
+    font-size: 18pt;
   }
   .container {
     width: 60%;
