@@ -22,7 +22,7 @@ Course is capped at 25 students.  Students are expected to actively participate 
   * Presenter: [Frank Wang](https://frankwang.org/)
 * 2/07
 * 2/21: TileDB 
-  * Presenter: Stavros Papadopoulos
+  * Presenter: Stavros Papadopoulos
 * 2/14
 * 2/28
 * 3/07
