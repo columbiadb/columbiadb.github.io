@@ -16,26 +16,40 @@ Students are expected to actively participate in discussions.
 
 #### Schedule
 
-* 1/17: Introduction
-  * Presenter: Eugene
-* 1/24: Crouwdsourcing
-  * Presenter: Adam Marcus
-* 1/31: Secure Databases
-  * Presenter: [Frank Wang](https://frankwang.org/)
-* 2/07
-* 2/21: TileDB 
-  * Presenter: Stavros Papadopoulos
-* 2/14
-* 2/28: Instabase
-  * Presenter: Anant Bhardwaj
-* 3/07
-* 3/14: Spring Recess
-* 3/21:  
-* 3/28
-* 4/04
-* 4/11
-* 4/18
-* 4/25: Project presentations
+1/17: Introduction
+* Presenter: Eugene
+
+1/24: Crouwdsourcing
+* Presenter: Adam Marcus
+
+1/31: Secure Databases
+* Presenter: [Frank Wang](https://frankwang.org/)
+
+2/07:
+
+2/21: TileDB 
+* Presenter: Stavros Papadopoulos
+
+2/14:
+
+2/28: Instabase
+* Presenter: Anant Bhardwaj
+
+3/07:
+
+3/14: Spring Recess
+
+3/21:  
+
+3/28:
+
+4/04:
+
+4/11:
+
+4/18:
+
+4/25: Project presentations
 
 <!--
 {: .schedule .table  :}
