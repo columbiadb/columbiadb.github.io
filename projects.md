@@ -81,7 +81,6 @@ Good class projects can vary dramatically in complexity, scope, and topic. The o
 
 ### Project Suggestions
 
-<!--
 
 The following are examples of possible projects -- they are by no means a complete list and you are free to select your own projects.  In general, projects can be of three varieties:
 
@@ -184,4 +183,3 @@ Recommendations and Predictions
 https://www.gwern.net/Black-market%20archives
 WHere will you send your agents? 
 
--->

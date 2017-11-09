@@ -6,7 +6,7 @@ layout: index
 
 Data is eating the world and developing next generation data-driven applications and systems for working with data is more important than ever before.  In addition, the lines between research, applications, and industry are blurring more than ever.  
 
-This course will survey modern research in data management -- from large scale data processing, modern database engines, to data cleaning and visualization, to secure data management.  To ground the discussion, we will host invited speakers that have transitioned from research to industry (and sometimes back!).
+This course will survey modern research in data management -- from large scale data processing, modern database engines, to data cleaning and visualization, to secure data management.  To ground the discussion, we will host invited speakers that have (or are) transitioned their research work from academia to industry.   Depending on timing and interest,  select students may be invited to join the speakers for more in-depth discussions over dinner after class.  
 
 Students are expected to actively participate in discussions.   
 <small style="color: grey">Course capped at 25.  If waitlist is huge, a small assignment will be used to choose participants.</small>
@@ -33,7 +33,7 @@ Students are expected to actively participate in discussions.
 2/14:
 
 2/28: Instabase
-* Presenter: Anant Bhardwaj
+* Presenter: Anant Bhardwaj and Edward Benson
 
 3/07:
 
