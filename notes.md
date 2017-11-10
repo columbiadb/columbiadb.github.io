@@ -9,12 +9,16 @@ High perf data proc
 * Madden?
 * Justin Debrabant (emailed) 
 * DataBricks (emailed)
-* Evan Jones
+* Evan Jones (emailed)
+
+Time series
+
+* Influx (emailed)
+* 2Sigma (email)
 
 Collaborative Data
 
 * Anant (emailed)
-
 
 Crowd
 
