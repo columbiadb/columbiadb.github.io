@@ -19,7 +19,7 @@ Students are expected to actively participate in discussions.
 1/17: Introduction
 * Presenter: Eugene
 
-1/24: Crouwdsourcing
+1/24: Crowdsourcing
 * Presenter: Adam Marcus
 
 1/31: Secure Databases
@@ -43,7 +43,9 @@ Students are expected to actively participate in discussions.
 
 3/28:
 
-4/04:
+4/04: 3 Timeless ideas in SQLite
+* Presenter: [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp)
+
 
 4/11:
 
