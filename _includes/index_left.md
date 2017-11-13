@@ -40,4 +40,5 @@ The course will involve invited speakers from industry and academia to compare a
 * [Anant Bhardwaj](http://people.csail.mit.edu/anantb/) <small>CEO, [Instabase](http://www.instabase.com)</small>
 * [Edward Benson](http://edwardbenson.com/) <small>ex-CEO of [cloudstitch](http://cloudstitch.com), now at Instabase</small>
 * Adam Marcus <small>CTO, [b12](http://www.b12.io)</small>
+* [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp) <small>Creator of [SQLite](https://www.sqlite.org/)</small>
 
