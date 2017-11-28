@@ -41,4 +41,5 @@ The course will involve invited speakers from industry and academia to compare a
 * [Edward Benson](http://edwardbenson.com/) <small>ex-CEO of [cloudstitch](http://cloudstitch.com), now at Instabase</small>
 * Adam Marcus <small>CTO, [b12](http://www.b12.io)</small>
 * [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp) <small>Creator of [SQLite](https://www.sqlite.org/)</small>
+* [Molham Aref](https://www.linkedin.com/in/molham) <small>CEO, [LogicBlox](http://www.logicblox.com/) (bought)</small>
 
