@@ -42,4 +42,5 @@ The course will involve invited speakers from industry and academia to compare a
 * Adam Marcus <small>CTO, [b12](http://www.b12.io)</small>
 * [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp) <small>Creator of [SQLite](https://www.sqlite.org/)</small>
 * [Molham Aref](https://www.linkedin.com/in/molham) <small>CEO, [LogicBlox](http://www.logicblox.com/) (bought)</small>
+* [Todd Mostak](https://twitter.com/toddmostak?lang=en) <small>CEO, [Map-D](https://www.mapd.com)</small>
 

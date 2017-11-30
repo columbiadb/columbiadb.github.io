@@ -25,7 +25,8 @@ Students are expected to actively participate in discussions.
 1/31: Secure Databases
 * Presenter: [Frank Wang](https://frankwang.org/)
 
-2/07:
+2/07: GPU Databases
+* Presenter: [Todd Mostak](https://www.mapd.com)
 
 2/21: TileDB 
 * Presenter: Stavros Papadopoulos
