@@ -20,7 +20,7 @@ Students are expected to actively participate in discussions.
 * Presenter: Eugene
 
 1/24: Crowdsourcing
-* Presenter: Adam Marcus
+* Presenter: [Adam Marcus](http://marcua.net/)
 
 1/31: Secure Databases
 * Presenter: [Frank Wang](https://frankwang.org/)

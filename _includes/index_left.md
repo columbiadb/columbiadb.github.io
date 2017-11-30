@@ -39,7 +39,7 @@ The course will involve invited speakers from industry and academia to compare a
 * [Evan Jones](http://www.evanjones.ca/) <small>MIT PhD, BlueCore</small>
 * [Anant Bhardwaj](http://people.csail.mit.edu/anantb/) <small>CEO, [Instabase](http://www.instabase.com)</small>
 * [Edward Benson](http://edwardbenson.com/) <small>ex-CEO of [cloudstitch](http://cloudstitch.com), now at Instabase</small>
-* Adam Marcus <small>CTO, [b12](http://www.b12.io)</small>
+* [Adam Marcus](http://marcua.net/) <small>CTO, [b12](http://www.b12.io)</small>
 * [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp) <small>Creator of [SQLite](https://www.sqlite.org/)</small>
 * [Molham Aref](https://www.linkedin.com/in/molham) <small>CEO, [LogicBlox](http://www.logicblox.com/) (bought)</small>
 * [Todd Mostak](https://twitter.com/toddmostak?lang=en) <small>CEO, [Map-D](https://www.mapd.com)</small>
