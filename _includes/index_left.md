@@ -21,11 +21,11 @@
 
 #### Grading
 
-* Questions      10% 
-* Participation  15% 
-* Assignments    15% 
-* Project        60%
-* Presentation   0-10% extra credit 
+* Questions      <small>10% </small>
+* Assignments    <small>15% </small>
+* Project        <small>60%</small>
+* Participation  <small>mandatory</small>
+* Presentation   <small>0-10% extra credit </small>
 
 
 
