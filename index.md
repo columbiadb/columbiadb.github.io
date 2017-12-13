@@ -24,6 +24,9 @@ Students are expected to actively participate in discussions.
 
 1/31: Secure Databases
 * Presenter: [Frank Wang](https://frankwang.org/)
+* Readings
+  * [Differential privacy primer](https://people.eecs.berkeley.edu/~stephentu/writeups/6885-lec20-b.pdf)
+  * [CryptDB summary](https://mshcruz.wordpress.com/2016/06/24/summary-cryptdb/)
 
 2/07: GPU Databases
 * Presenter: [Todd Mostak](https://www.mapd.com)
