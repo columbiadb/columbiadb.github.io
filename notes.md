@@ -44,3 +44,11 @@ Cleaning
 
 * Trifacta (emailed)
 * Tamr?
+
+Security
+
+* Frank
+  1. I already sent these. 
+  2. Let's say 60 min. It will be more lecture style.
+  3. Dinner after sounds good. I'll set up my own meetings (I want to limit who I talked to because of faculty application stuff).
+  4. Please don't publicize widely :).
