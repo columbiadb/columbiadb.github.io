@@ -4,6 +4,7 @@
 * Weds 4-6PM in 227 Mudd
 * [Syllabus](./syllabus)
 * [Piazza](https://piazza.com/class/j9oswjjbpyj3uz)
+* [Project](./projects)
 * Course Github
 
 #### Prereqs
@@ -23,7 +24,7 @@
 
 * Questions      <small>15% </small>
 * Assignments    <small>25% </small>
-* Project        <small>60%</small>
+* [Project](./projects)   <small>60%</small>
 * Participation  <small>mandatory</small>
 * Presentation   <small>0-10% extra credit </small>
 
