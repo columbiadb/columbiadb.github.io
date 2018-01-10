@@ -15,6 +15,13 @@ Projects
 
 ## Speakers
 
+Real databases
+
+* Richard Hipp
+  * allocated 60 minutes
+  * yes to dinner/coffee
+  * publicize widely, wants to meet with columbia folks
+
 High perf data proc
 
 * Stavros (emailed)
