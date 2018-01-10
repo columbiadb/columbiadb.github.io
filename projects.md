@@ -77,7 +77,7 @@ Because this report is the primary deliverable upon which you will be graded, **
 Good class projects can vary dramatically in complexity, scope, and topic. The only requirement is that they be related to something we have studied in this class and that they contain some element of research -- e.g., that you do more than simply engineer a piece of software that someone else has described or architected. To help you determine if your idea is of reasonable scope, we will arrange to meet with each group several times throughout the semester.
 
 
-### Project Suggestions
+## Project Suggestions
 
 
 The following are examples of possible projects -- they are by no means a complete list and you are free to select your own projects.  In general, projects can be of three varieties:
