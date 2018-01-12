@@ -55,7 +55,9 @@ Students are expected to actively participate in discussions.
 
 4/11:
 
-4/18:
+4/18: TBA
+* Presenter: [Evan Jones](http://www.evanjones.ca/)
+* Reading: TBA
 
 4/25: Project presentations
 
