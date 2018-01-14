@@ -25,9 +25,7 @@ What I expect from You
 * Students should be comfortable coding data processing systems;  familiarity with database query execution, some machine learning, and algorithms is expected.
 * Students should be comfortable conducting a research project and writing up the results in a research paper format.
 
-You are allewd **1 
-
-For assignments, you allowed 5 penalty free late days to use throughout the semester. One late day equals one 24 hour period after the due date of the assignment. Once you have used your late days, there will be a 20% penalty for each day an assignment is late. You do not need to explictly declare the use of late days; we will assign them to you in a way that is optimal for your grade when different assignments are worth different numbers of points. Late days may not be used for the final project.
+<!--For assignments, you allowed 5 penalty free late days to use throughout the semester. One late day equals one 24 hour period after the due date of the assignment. Once you have used your late days, there will be a 20% penalty for each day an assignment is late. You do not need to explictly declare the use of late days; we will assign them to you in a way that is optimal for your grade when different assignments are worth different numbers of points. Late days may not be used for the final project.-->
 
 
 
@@ -36,6 +34,11 @@ For assignments, you allowed 5 penalty free late days to use throughout the seme
 You will pursue a [semester long research project](./projects) related to this course.
 The project is a significant part of the course grade.
 
+#### Midterm Exam
+
+There will be an in-class written exam on 3/21 (after spring break).
+The exam will be long-from questions based on the mandatory readings and topics discussed in class.
+It will be closed notes.
 
 #### Paper Questions (every class)
 
@@ -43,11 +46,15 @@ You are expected to write and submit a paper review of the readings before each 
 
 Each review **must** answer the following basic questions:
 
-* What was the unmet need or opportunity?
-* What were existing approaches and why were they not used? Or could they have been used?
-* What was the key technical idea?  Do you buy it?  Could it be used elsewhere?
+* What was the unmet need or opportunity? (1-2 sentences)
+* What were existing approaches and why were they not used? Or could they have been used? (1-3 sentences)
+* What was the key technical idea?  Do you buy it?  Could it be used elsewhere?  (1-3 sentences)
 * Include 1+ question to ask the speaker.
 
+
+#### Extra Credit
+
+There will be up to 10% extra credit.  TBA
 
 ## Collaboration/Copying Policy
 

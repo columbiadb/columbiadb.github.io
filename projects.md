@@ -7,12 +7,12 @@ title: E6998.005 Research Project
 
 #### Important Dates 
 
+Percentages are of your total class grade.
 
 * Project Teams    2/1 
-* Prospectus       2/11    (15%)
-<!--* Midpoint Reviews 3/01  (5%)-->
-* Poster Session   4/25    (15%)
-* Report          4/30     (65%)
+* Prospectus       2/11    (5%)
+* Poster Session   4/25    (10%)
+* Report          4/30     (55%)
 
 #### Project Teams
 

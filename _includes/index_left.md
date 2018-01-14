@@ -17,17 +17,15 @@
 
 
 
-#### Assignments
-
-* TBD
-
 #### Grading
 
-* Questions      <small>15% </small>
-* Assignments    <small>25% </small>
-* [Project](./projects)   <small>60%</small>
+* Reading Reviews      <small>15% </small>
+* Midterm    <small>15% </small>
+* [Project Prospectus](./projects)   <small>5%</small>
+* [Project Poster](./projects)   <small>10%</small>
+* [Project Report](./projects)   <small>55%</small>
+* Extra Credit   <small>0-10%</small>
 * Participation  <small>mandatory</small>
-* Presentation   <small>0-10% extra credit </small>
 
 
 

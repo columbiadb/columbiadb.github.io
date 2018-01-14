@@ -49,7 +49,7 @@ Students are expected to actively participate in discussions.
 
 3/14: Spring Recess
 
-3/21:  
+3/21: Midterm
 
 3/28:
 
