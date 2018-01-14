@@ -18,6 +18,7 @@ Students are expected to actively participate in discussions.
 
 1/17: Introduction
 * Presenter: Eugene
+* HW 0: TBD
 
 1/24: Crowdsourcing
 * Presenter: [Adam Marcus](http://marcua.net/)
@@ -27,9 +28,12 @@ Students are expected to actively participate in discussions.
 * Readings
   * [Differential privacy primer](https://people.eecs.berkeley.edu/~stephentu/writeups/6885-lec20-b.pdf)
   * [CryptDB summary](https://mshcruz.wordpress.com/2016/06/24/summary-cryptdb/)
+* Project teams due 2/1
+
 
 2/07: GPU Databases
 * Presenter: [Todd Mostak](https://www.mapd.com)
+* Prospectus due 2/11
 
 2/21: TileDB 
 * Presenter: Stavros Papadopoulos
@@ -61,23 +65,3 @@ Students are expected to actively participate in discussions.
 
 4/25: Project presentations
 
-<!--
-{: .schedule .table  :}
-|  Day | Presenter | Papers                                                                      | Notes/Due |
-|------|-----------|-----------------------------------------------------------------------------|--|
-| 1/17 | Eugene    | Introduction                                                 |  |
-| 1/24 | Eugene    |                                                              |  |
-| 1/31 | Eugene    |                                                              |  |
-| 2/07 | Eugene    |                                                              |  |
-| 2/14 | Eugene    |                                                              |  |
-| 2/21 | Eugene    |                                                              |  |
-| 2/28 | Eugene    |                                                              |  |
-| 3/07 | Eugene    |                                                              |  |
-| 3/14 | Eugene    |                                                              |  |
-| 3/21 | Eugene    |                                                              |  |
-| 3/28 | Eugene    |                                                              |  |
-| 4/04 | Eugene    |                                                              |  |
-| 4/11 | Eugene    |                                                              |  |
-| 4/18 | Eugene    |                                                              |  |
-| 4/25 | Eugene    | Project Presentations                                        |  |
--->
