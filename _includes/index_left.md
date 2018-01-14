@@ -21,9 +21,7 @@
 
 * Reading Reviews      <small>15% </small>
 * Midterm    <small>15% </small>
-* [Project Prospectus](./projects)   <small>5%</small>
-* [Project Poster](./projects)   <small>10%</small>
-* [Project Report](./projects)   <small>55%</small>
+* [Project](./projects) <small>70%</small>
 * Extra Credit   <small>0-10%</small>
 * Participation  <small>mandatory</small>
 
