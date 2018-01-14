@@ -2,7 +2,7 @@
 layout: page
 ---
 
-#### Syllabus is currently in flux
+<center>(This page is in flux)</center>
 
 #### Overview
 
