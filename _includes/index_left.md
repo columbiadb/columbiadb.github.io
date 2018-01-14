@@ -5,7 +5,8 @@
 * [Syllabus](./syllabus)
 * [Piazza](https://piazza.com/class/j9oswjjbpyj3uz)
 * [Project](./projects)
-* Course Github
+* [Provide Feedback](https://goo.gl/forms/QIfWsPnwu3YHtamk1)
+
 
 #### Prereqs
 
