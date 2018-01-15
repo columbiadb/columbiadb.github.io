@@ -9,7 +9,7 @@ title: E6998.005 Research Project
 
 Percentages are of your total class grade.
 
-* Proposal Presentations    1/24-1/31 (5%)
+* Proposal Presentations    1/24-2/7 (5%)
 * Prospectus       2/11    (5%)
 * Poster Session   4/25    (10%)
 * Report          4/30     (50%)
@@ -21,9 +21,9 @@ The major portion of your grade is based on the research project. Students will 
 
 Good class projects can vary dramatically in complexity, scope, and topic. The only requirement is that they be related to something we have studied in this class and that they contain some element of research -- e.g., that you do more than simply engineer a piece of software that someone else has described or architected. To help you determine if your idea is of reasonable scope, we will arrange to meet with each group several times throughout the semester.
 
-#### Proposal Presentations (Due: 1/24 - 1/31)
+#### Proposal Presentations (Due: 1/24-2/7)
 
-During the 2nd and 3rd lectures, each group will give a 5 minute presentation about their proposed project to the class.  The proposal should contain:
+At the beginning of the 2nd to 4th lectures, each group will give a 5 minute presentation about their proposed project to the class.  The proposal should contain:
 
 * Project idea and hypotheses
 * What work must be done and how it will be diveded amongst the team
@@ -31,6 +31,9 @@ During the 2nd and 3rd lectures, each group will give a 5 minute presentation ab
 * Resources needed to complete project
 
 Teams can meet with the instructor after their presentations for further discussion and feedback.
+
+[Click here to sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU).  Click next to the appropriate week.
+
 
 <!-- Teams should consist of 1-3 people. In addition, if you have a project in mind, please indicate briefly (1--2 sentences) what you are thinking. We have included a list of possible projects at the end of this document although you are not required to choose from these. -->
 

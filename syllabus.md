@@ -34,31 +34,49 @@ What I expect from You
 You will pursue a [semester long research project](./projects) related to this course.
 The project is a significant part of the course grade.
 
+<a name="midterm"></a>
 #### Midterm Exam
 
 There will be an in-class written exam on 3/21 (after spring break).
 The exam will be long-from questions based on the mandatory readings and topics discussed in class.
 It will be closed notes.
 
-#### Paper Questions (every class)
+<a name="reading"></a>
+#### Paper Reviews (every class)
 
-You are expected to write and submit a paper review of the readings before each class, and answer some questions about the readings.  The review should be akin to a conference paper review.  The purpose of the readings is to provide an illustrative example of the research area.  You are encouraged but not required to read the supplemental readings to better understand the materials.  The class reviews must be submitted in Piazza by **9PM EST the day before class**.  Late submissions are given a score of 0 without prior approval.  You may miss submissions for up to **2 lectures**.
+You are expected to write and submit a paper review of the readings before each class, and answer some questions about the readings.  The review should be akin to a conference paper review.  The purpose of the readings is to provide an illustrative example of the research area.  You are encouraged but not required to read the supplemental readings to better understand the materials.  The class reviews must be submitted by **9PM EST the day before class**.  Late submissions are given a score of 0 without prior approval.  You may miss submissions for up to **2 lectures**.
 
 Each review **must** answer the following basic questions:
 
 * What was the unmet need or opportunity? (1-2 sentences)
 * What were existing approaches and why were they not used? Or could they have been used? (1-3 sentences)
-* What was the key technical idea?  Do you buy it?  Could it be used elsewhere?  (1-3 sentences)
+* What was the key technical idea?  (1 sentence)
+* What evidence supports the claim?  What evidence is lacking? (1-3 sentences)
 * Include 1+ question to ask the speaker.
 
+[Submit your reviews here](https://goo.gl/forms/2I3Cc4nGM62j1SO62)
 
+<a name="participation"></a>
+#### Participation
+
+Participation is mandatory.  Since the course is small, it is expected that students will help contribute to the in person and online discussions.  This includes:
+
+* Asking and answering questions related to the class's readings and lectures.  
+* Making observations about the lecture's relationship with products or society 
+* Asking and answering questions on piazza
+
+A corallory is that your conduct is respectful and encouraging to your fellow students.
+
+
+<a name="ec"></a>
 #### Extra Credit
 
 There will be up to 10% extra credit.  TBA
 
+
 ## Collaboration/Copying Policy
 
-TLDR: do your own work.
+Refer to [Columbia's academic honesty policy](http://www.cs.columbia.edu/education/honesty/) if you are at all unsure.
 
 You must write all the code you hand in for the programming assignments, except for code that we give you as part of the assignment. You are not allowed to look at anyone else's solution, you are not allowed to look at solutions from previous years, and you are not allowed to look at solutions from other universities. You may discuss the assignments with other students, but you may not look at or use each other's code. The same rule holds for the question assignments: you must write all answers yourself, not look at others' answers, but you can discuss the questions with others at a high level.
 You are also not allowed to look for or at solutions to the homeworks on the Internet. You can search for small pieces of code that solve small parts of your homeworks, and you may use tutorials to learn, however if you copy any code from anywhere, we request that you identify the origin in a comment in the code.

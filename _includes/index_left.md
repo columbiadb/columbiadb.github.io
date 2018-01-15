@@ -1,7 +1,10 @@
 #### Information 
 
-* [Eugene Wu](http://www.eugenewu.net) (Instructor)
-* Weds 4-6PM in 227 Mudd
+* [Eugene Wu](http://www.eugenewu.net) (Instructor)   
+  <small>OH: Tues 5-6PM</small>
+* [Fotis Psallidas](http://www.cs.columbia.edu/~fotis/) (IA)   
+  <small>OH: tba</small>
+* Class: Weds 4-6PM in 227 Mudd
 * [Syllabus](./syllabus)
 * [Piazza](https://piazza.com/class/j9oswjjbpyj3uz)
 * [Project](./projects)
@@ -19,11 +22,11 @@
 
 #### Grading
 
-* Reading Reviews      <small>15% </small>
-* Midterm    <small>15% </small>
 * [Project](./projects) <small>70%</small>
-* Extra Credit   <small>0-10%</small>
-* Participation  <small>mandatory</small>
+* [Midterm](./syllabus#midterm)    <small>15% </small>
+* [Paper Reviews](./syllabus#reading)      <small>15% </small>
+* [Extra Credit](./syllabus#ec)   <small>0-10%</small>
+* [Participation](./syllabus#participation)  <small>mandatory</small>
 
 
 
@@ -37,9 +40,8 @@ The course will involve invited speakers from industry and academia to compare a
 * [Evan Jones](http://www.evanjones.ca/) <small>MIT PhD, BlueCore</small>
 * [Anant Bhardwaj](http://people.csail.mit.edu/anantb/) <small>CEO, [Instabase](http://www.instabase.com)</small>
 * [Edward Benson](http://edwardbenson.com/) <small>ex-CEO of [cloudstitch](http://cloudstitch.com), now at Instabase</small>
-* [Adam Marcus](http://marcua.net/) <small>CTO, [b12](http://www.b12.io)</small>
+* [Adam Marcus](http://marcua.net/) <small>CTO, [B12](http://www.b12.io)</small>
 * [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp) <small>Creator of [SQLite](https://www.sqlite.org/)</small>
 * [Molham Aref](https://www.linkedin.com/in/molham) <small>CEO, [LogicBlox](http://www.logicblox.com/) (bought)</small>
 * [Todd Mostak](https://twitter.com/toddmostak?lang=en) <small>CEO, [MapD](https://www.mapd.com)</small>
-* [Evan Jones](http://www.evanjones.ca/) <small>Engineer, BlueCore</small>
 

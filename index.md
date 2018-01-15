@@ -18,22 +18,30 @@ Students are expected to actively participate in discussions.
 
 1/17: Introduction
 * Presenter: Eugene
-* HW 0: TBD
 
-1/24: Crowdsourcing
+1/24: Human-Assisted AI at B12
 * Presenter: [Adam Marcus](http://marcua.net/)
+* Reading: [Crowdsourced Data Management: Industry and Academic Perspectives](http://marcua.net/papers/crowd-book.pdf)
+  * Skim chapter 3, stopping after completing section 3.3
+  * Skim chapter 4, stopping after completing section 4.2
+  * Read the executive summary of chapter 5
+* Assignments
+  * Project Presentations batch 1.  [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU)
 
 1/31: Secure Databases
 * Presenter: [Frank Wang](https://frankwang.org/)
 * Readings
   * [Differential privacy primer](https://people.eecs.berkeley.edu/~stephentu/writeups/6885-lec20-b.pdf)
   * [CryptDB summary](https://mshcruz.wordpress.com/2016/06/24/summary-cryptdb/)
-* Project teams due 2/1
+* Assignments
+  * Project Presentations batch 2.  [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU)
 
 
 2/07: GPU Databases
 * Presenter: [Todd Mostak](https://www.mapd.com)
-* Prospectus due 2/11
+* Assignments
+  * Project Presentations batch 3. [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU)
+  * Prospectus due 2/11
 
 2/21: TileDB 
 * Presenter: Stavros Papadopoulos
