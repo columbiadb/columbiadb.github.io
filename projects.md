@@ -23,7 +23,7 @@ Good class projects can vary dramatically in complexity, scope, and topic. The o
 
 #### Proposal Presentations (Due: 1/24-2/7)
 
-At the beginning of the 2nd to 4th lectures, each group will give a 5 minute presentation about their proposed project to the class.  The proposal should contain:
+At the beginning of the 2nd to 4th lectures, each group will give a **5 minute presentation** about their proposed project to the class.  The presentation should contain:
 
 * Project idea and hypotheses
 * What work must be done and how it will be diveded amongst the team
@@ -32,7 +32,7 @@ At the beginning of the 2nd to 4th lectures, each group will give a 5 minute pre
 
 Teams can meet with the instructor after their presentations for further discussion and feedback.
 
-[Click here to sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU).  Click next to the appropriate week.
+[**Click here to sign up**](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU).  Click next to the appropriate week.
 
 
 <!-- Teams should consist of 1-3 people. In addition, if you have a project in mind, please indicate briefly (1--2 sentences) what you are thinking. We have included a list of possible projects at the end of this document although you are not required to choose from these. -->
@@ -54,7 +54,7 @@ Your prospectus should follow the example:
 Submission:
 
 1. Rename the filename of your prospectus to the following format, last names should be in **alphabetical order**. `prospectus_<lastname1>_.._<lastnameN>.pdf`
-2. [Click here to upload the file by 2/11 11:59PM EST](https://www.dropbox.com/request/Kmymco2V49BS3rSlWfls)
+2. [**Click here to upload the file by 2/11 11:59PM EST**](https://www.dropbox.com/request/Kmymco2V49BS3rSlWfls)
 
 
 <!--
@@ -90,7 +90,7 @@ Because this report is the primary deliverable upon which you will be graded, **
 **Submission**
 
 1. Rename the filename of your report to the following format, last names should be in alphabetical order. `report_<lastname1>_<lastname2>.._<lastnameN>.pdf`
-2. [Upload the file by 4/30 11:59PM EST](https://www.dropbox.com/request/9zdikb92vHFFPYtaFF0e)
+2. [**Click here to upload the file by 4/30 11:59PM EST**](https://www.dropbox.com/request/9zdikb92vHFFPYtaFF0e)
 
 
 <a name="suggestions"></a>
