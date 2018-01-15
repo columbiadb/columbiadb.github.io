@@ -35,6 +35,7 @@
 
 The course will involve invited speakers from industry and academia to compare and contrast research and practice, as well as transitioning between the two disciplines.
 
+* [Juliana Freire](https://en.m.wikipedia.org/wiki/Juliana_Freire) <small>Professor of CSE and Data Science, NYU</small>
 * [Frank Wang](https://frankwang.org/) <small>Founder, [Cybersecurity Foundry](https://cybersecurityfactory.com/)</small>
 * [Stavros Papadopoulos](https://people.csail.mit.edu/stavrosp/) <small>CEO, [TileDB](http://tiledb.io/)</small>
 * [Evan Jones](http://www.evanjones.ca/) <small>MIT PhD, BlueCore</small>

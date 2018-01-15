@@ -60,6 +60,7 @@ Students are expected to actively participate in discussions.
 3/21: Midterm
 
 3/28:
+* Presenter: [Juliana Freire](https://en.m.wikipedia.org/wiki/Juliana_Freire)
 
 4/04: 3 Timeless ideas in SQLite
 * Presenter: [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp)
