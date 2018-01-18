@@ -32,7 +32,7 @@ At the beginning of the 2nd to 4th lectures, each group will give a **5 minute p
 
 Teams can meet with the instructor after their presentations for further discussion and feedback.
 
-[**Click here to sign up**](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU).  Click next to the appropriate week.
+[**Click here to sign up**](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU).  Click "next" until you get to the appropriate week.
 
 
 <!-- Teams should consist of 1-3 people. In addition, if you have a project in mind, please indicate briefly (1--2 sentences) what you are thinking. We have included a list of possible projects at the end of this document although you are not required to choose from these. -->
