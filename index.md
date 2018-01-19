@@ -12,6 +12,9 @@ Students are expected to actively participate in discussions.
 <small style="color: grey">Course capped at 25.  If waitlist is huge, a small assignment will be used to choose participants.</small>
 
 
+#### Recent Announcements
+
+* Updated [extra credit](./syllabus#ec) part of syllabus
 
 
 #### Schedule
@@ -45,6 +48,7 @@ Students are expected to actively participate in discussions.
 
 2/21: TileDB 
 * Presenter: Stavros Papadopoulos
+* Reading: [The TileDB Array Data Storage Manager](https://people.csail.mit.edu/stavrosp/papers/vldb2017/VLDB17_TileDB.pdf)
 
 2/14:
 
