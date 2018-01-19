@@ -109,7 +109,7 @@ Understand how scientific articles use and talk about data.  Two possible direct
 
 * Analyze how data is talked about
   * [Viziometrics](http://viziometrics.org/api/) has a corpus of figures from pubMed articles, analyze the way papers describe and talk about the contents of figures.  Is there a universal set of ways that figures are described (e.g., in terms of comparisons? in relative terms? ).  This can serve as the evidence for a new data analysis language.
-  * fyi: Arxiv supports downloading raw tex files for many papers
+  * We can help get access to a corpus of ArXiV papers and their LateX files
 * Analyze how data is cleaned in practice
   * Analyze the text of scientific journals (science/nature/pubmed/arxiv/biorxiv) to categorize and summarize types of data cleaning applied.
   * or scrape and analyze code bases for cleaning operations
