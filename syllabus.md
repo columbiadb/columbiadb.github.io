@@ -71,12 +71,12 @@ A corallory is that your conduct is respectful and encouraging to your fellow st
 <a name="ec"></a>
 #### Extra Credit
 
-The purpose of extra credit is to reward cool stuff.  Propose activities that deserve extra credit and convince me how much extra credit (up to 10%) you should receive.  Some _possible directions_:
+The purpose of extra credit is to reward learning and doing cool stuff.  Propose activities that the course doesn't go over nor force you to do, and convince me how much extra credit (up to 10%) you should receive.  Some _possible directions_:
 
-* survey a database subarea in terms of idea adoption
+* survey a discussed database topic area in terms of idea adoption
 * suggest an above and beyond target for your project
-* propose a lecture
-* __your thoughts here__
+* read about a topic not covered and give a lecture
+* __your ideas here__
 
 
 ## Collaboration/Copying Policy
