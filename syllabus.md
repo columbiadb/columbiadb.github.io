@@ -75,7 +75,8 @@ The purpose of extra credit is to reward learning and doing cool stuff.  Propose
 
 * survey a discussed database topic area in terms of idea adoption
 * suggest an above and beyond target for your project
-* read about a topic not covered and give a lecture
+* learn a topic/system/etc not covered and teach us
+* implement a paper/idea 
 * __your ideas here__
 
 
