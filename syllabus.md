@@ -73,11 +73,11 @@ A corallory is that your conduct is respectful and encouraging to your fellow st
 
 The purpose of extra credit is to reward learning and doing cool stuff.  Propose activities that the course doesn't go over nor force you to do, and convince me how much extra credit (up to 10%) you should receive.  Some _possible directions_:
 
-* survey a discussed database topic area in terms of idea adoption
-* suggest an above and beyond target for your project
+* apply diffusion of innovation, or any other adoption theory, to a subarea of databases.  Present it
+* suggest an above-and-beyond target for your project
 * learn a topic/system/etc not covered and teach us
 * implement a paper/idea 
-* __your ideas here__
+* _your crazy idea here_
 
 
 ## Collaboration/Copying Policy
