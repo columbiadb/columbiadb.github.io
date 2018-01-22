@@ -14,6 +14,7 @@ Students are expected to actively participate in discussions.
 
 #### Recent Announcements
 
+* Added questions for first reading below
 * Updated [extra credit](./syllabus#ec) part of syllabus
 
 
@@ -28,6 +29,12 @@ Students are expected to actively participate in discussions.
   * Skim chapter 3, stopping after completing section 3.3
   * Skim chapter 4, stopping after completing section 4.2
   * Read the executive summary of chapter 5
+* Reading Questions: <small>Since the reading is not a paper, answer the following questions</small>
+  * What is the type of problem that crowd-powered algorithms and systems are uniquely meant to solve?  Don't use any jargon
+  * Imagine and describe the craziest/most impactful application for which crowdsourcing would be a necessary component.
+    * What does the application do?
+    * Who cares?
+    * Why is crowdsourcing needed?
 * Assignments
   * Project Presentations batch 1.  [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU)
 

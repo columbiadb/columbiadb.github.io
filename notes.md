@@ -21,6 +21,8 @@ Real databases
 High perf data proc
 
 * Stavros (emailed)
+  * Want to meet folks
+  * Just Coffee
 * Madden?
 * Justin Debrabant (emailed) 
 * DataBricks (emailed)
