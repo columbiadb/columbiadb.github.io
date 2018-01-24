@@ -1,9 +1,9 @@
 #### Information 
 
 * [Eugene Wu](http://www.eugenewu.net) (Instructor)   
-  <small>OH: Tues 5-6PM</small>
+  <small>OH: Tues 5-6PM in 421 Mudd</small>
 * [Fotis Psallidas](http://www.cs.columbia.edu/~fotis/) (IA)   
-  <small>OH: tba</small>
+  <small>OH: Thurs 12-1PM in 425 Mudd</small>
 * Class: Weds 4-6PM in 227 Mudd
 * [Syllabus](./syllabus)
 * [Piazza](https://piazza.com/class/j9oswjjbpyj3uz)

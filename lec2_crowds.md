@@ -1,3 +1,9 @@
+
+## Reading Responses
+
+
+
+
 ## Notes
 
 Why are the crowd powered algorithms _so simple_?  
