@@ -1,5 +1,9 @@
 Database Topics in Research and Practice
 
+Dinners
+
+* CS dept can pay for 3 at maxsoha (30 per person)
+
 Projects
 
 * smoke
