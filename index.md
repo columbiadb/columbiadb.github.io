@@ -69,9 +69,7 @@ Students are expected to actively participate in discussions.
 2/28: Instabase
 * Presenter: Anant Bhardwaj and Edward Benson
 
-3/07: LogicBlox
-* Presenter: Molham Aref
-* Reading: [Design and Implementation of the LogicBlox System](http://www.cs.ox.ac.uk/dan.olteanu/papers/logicblox-sigmod15.pdf)
+3/07: 
 
 3/14: Spring Recess
 
@@ -84,7 +82,9 @@ Students are expected to actively participate in discussions.
 * Presenter: [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp)
 
 
-4/11:
+4/11: LogicBlox
+* Presenter: Molham Aref
+* Reading: [Design and Implementation of the LogicBlox System](http://www.cs.ox.ac.uk/dan.olteanu/papers/logicblox-sigmod15.pdf)
 
 4/18: TBA
 * Presenter: [Evan Jones](http://www.evanjones.ca/)
