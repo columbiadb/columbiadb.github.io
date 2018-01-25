@@ -1,7 +1,36 @@
+# Talk Notes
+
+* which of the latency, quality, cost tradeoffs do people care about in practice?
+  * quality not an issue, elastic scaling is the goal (pooling)
+* Nature of the firm?
+* at large scale, is it all labeling and transcription/extraction?
+* macrotasks to microtasks: relationship with the gig economy
+* macrotask vs remote employee vs traditional employee
+  * what is the core difference?  
+    * mostly context free
+    * ask an economist: the contract?  the hiring agency is now a platform?
+* Applied Usher to all parts of the interface that require choice?
 
 ## Reading Responses
 
+Dinner: Kevin Raji Cherian
 
+
+
+Ethics of crowdsourcing
+
+Applications
+
+* airport security for scanning luggage.
+* fake news -- does it scale?  security problem?
+* cooking website -- in some sense social networks already "crowdsource".  What's teh difference?
+* tracking people across city-wide video cameras
+* wisdom of the crowds
+* social network + census.  kind of like facebook-wide polls
+* power a chat
+* fiction aggregator beyond tags and summaries
+  * feature extraction, particular topic
+  * seems like NLP-based free text input is the hard part
 
 
 ## Notes
