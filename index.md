@@ -44,6 +44,7 @@ Students are expected to actively participate in discussions.
   * [Differential privacy primer](https://people.eecs.berkeley.edu/~stephentu/writeups/6885-lec20-b.pdf)
   * [CryptDB summary](https://mshcruz.wordpress.com/2016/06/24/summary-cryptdb/)
   * [Envisioning the Hack That Could Take Down NYC](http://nymag.com/daily/intelligencer/2016/06/the-hack-that-could-take-down-nyc.html)
+  * (optional) [smcql: Secure Querying for Federated Databases](http://users.eecs.northwestern.edu/~jennie/pubs/smcql.pdf)
 * Reading Questions: <small>Since the readings are summaries, answer the following questions</small>
   * Describe concrete scenarios of problems that each of the first two readings seeks to address.
     * Are they realistic in practice?  
