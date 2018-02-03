@@ -64,6 +64,7 @@ Students are expected to actively participate in discussions.
   * Optional: [Massive Throughput Database Queries with LLVM on GPUs](https://www.mapd.com/blog/2016/04/27/massive-throughput-database-queries-with-llvm-on-gpus/) 
   * Optional: [End-to-end Computation on the GPU with the GPU Data Frame (GDF)](https://www.mapd.com/blog/2017/05/30/end-to-end-on-the-gpu-with-the-gpu-data-frame-gdf/)
   * Optional: [Vega makes visualizing BIG data easy](https://www.mapd.com/blog/2017/07/22/vega-makes-visualizing-big-data-easy/)
+* [See Syllabus for Reading Questions](./syllabus#reading)
 * Assignments
   * Project Presentations batch 3. [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU)
   * Prospectus due 2/11
