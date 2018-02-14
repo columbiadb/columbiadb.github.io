@@ -69,11 +69,17 @@ Students are expected to actively participate in discussions.
   * Project Presentations batch 3. [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUlmUlc5VDIwWDJwfGRlZmF1bHR8MTUwY2E3NDBiMDNhMTU4ZDIyODhlMjFlZTAzZGMyZTU)
   * Prospectus due 2/11
 
-2/14: TileDB 
+2/14: The future of data interaction
+* Presenter: Eugene Wu
+* Readings (optional)
+  * [Smoke: fast lineage](https://arxiv.org/abs/1801.07237)
+  * [Precision Interfaces](https://arxiv.org/abs/1712.00078)
+  * [Scorpion: explaining outliers](http://sirrice.github.io/files/papers/scorpion-vldb13.pdf)
+
+2/21: TileDB 
 * Presenter: Stavros Papadopoulos
 * Reading: [The TileDB Array Data Storage Manager](https://people.csail.mit.edu/stavrosp/papers/vldb2017/VLDB17_TileDB.pdf)
 
-2/21:
 
 2/28: Instabase
 * Presenter: Anant Bhardwaj and Edward Benson
