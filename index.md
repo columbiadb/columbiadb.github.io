@@ -79,6 +79,9 @@ Students are expected to actively participate in discussions.
 2/21: TileDB 
 * Presenter: Stavros Papadopoulos
 * Reading: [The TileDB Array Data Storage Manager](https://people.csail.mit.edu/stavrosp/papers/vldb2017/VLDB17_TileDB.pdf)
+* Optional Reading:
+  * Main discussion: [Dynamic Prefetching of Data Tiles for Interactive Visualization](http://www.cs.tufts.edu/~remco/publications/2016/SIGMOD2016-ForeCache.pdf)
+  * Related: [Distributed and Interactive Cube Exploration](http://arnab.org/files/dice.nandi_.pdf)
 
 
 2/28: Instabase
