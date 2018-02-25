@@ -90,6 +90,13 @@ Students are expected to actively participate in discussions.
 * Readings
   * [The Datahub Paper](http://db.csail.mit.edu/pubs/datahubcidr.pdf) that started instabase
   * [Quilt](http://edwardbenson.com/papers/uist2014-spreadsheet-driven-web-apps.pdf)
+* Reading Questions:
+  * For both papers:
+    * What concrete problem did the datahub paper set out to solve?
+    * What technical idea seems promising (irrespective of the problem statement described in the papers)?
+    * Do you think the problem is real?  If so, describe an impactful scenario for it.  If not, describe why not and what aspects of the paper could be impactful.  (Be sure to be clear about what impactful means)
+  * One or more questions for the speakers
+    
 
 3/07: 
 
