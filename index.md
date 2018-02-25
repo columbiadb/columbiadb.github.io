@@ -85,8 +85,11 @@ Students are expected to actively participate in discussions.
   * Related: [Distributed and Interactive Cube Exploration](http://arnab.org/files/dice.nandi_.pdf)
 
 
-2/28: Instabase
+2/28: Instabase: Turing your research into a startup
 * Presenter: Anant Bhardwaj and Edward Benson
+* Readings
+  * [The Datahub Paper](http://db.csail.mit.edu/pubs/datahubcidr.pdf) that started instabase
+  * [Quilt](http://edwardbenson.com/papers/uist2014-spreadsheet-driven-web-apps.pdf)
 
 3/07: 
 
