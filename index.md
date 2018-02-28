@@ -100,7 +100,12 @@ Students are expected to actively participate in discussions.
   * One or more questions for the speakers
     
 
-3/07: 
+3/07: Cockroach Labs: Raft Made Complex
+* Presenter: Ben Darnell
+* Readings
+  * [The original Raft paper](https://raft.github.io/raft.pdf)
+  * (Optional) [Raft Refloated](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf) 
+  * (Optional) [Google's Paxos Made LIve](https://research.google.com/archive/paxos_made_live.html)
 
 3/14: Spring Recess
 

@@ -45,4 +45,5 @@ The course will involve invited speakers from industry and academia to compare a
 * [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp) <small>Creator of [SQLite](https://www.sqlite.org/)</small>
 * [Molham Aref](https://www.linkedin.com/in/molham) <small>CEO, [LogicBlox](http://www.logicblox.com/) (bought)</small>
 * [Todd Mostak](https://twitter.com/toddmostak?lang=en) <small>CEO, [MapD](https://www.mapd.com)</small>
+* [Ben Darnell](https://www.cockroachlabs.com/about/) <small>CTO, Co-founder, [Cockroach Labs](https://www.cockroachlabs.com/)</small>
 
