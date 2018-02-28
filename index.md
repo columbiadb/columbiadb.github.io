@@ -91,7 +91,7 @@ Students are expected to actively participate in discussions.
   * [The Datahub Paper](http://db.csail.mit.edu/pubs/datahubcidr.pdf) that started instabase
   * [Quilt](http://edwardbenson.com/papers/uist2014-spreadsheet-driven-web-apps.pdf)
   * (Optional) [Ajax-based Report Pages as Incrementally Rendered Views](http://db.ucsd.edu/wp-content/uploads/pdfs/350.pdf)
-  * (Optional) [Collaborative Data Analytics with DataHub](http://www.vldb.org/pvldb/vol8/p1916-bhardwaj.pdf)
+  * (Optional) [Collaborative Data Analytics with DataHub (Demo)](http://www.vldb.org/pvldb/vol8/p1916-bhardwaj.pdf)
 * Reading Questions:
   * For both papers:
     * What concrete problem did the datahub paper set out to solve?
