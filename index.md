@@ -104,7 +104,8 @@ Students are expected to actively participate in discussions.
 * Presenter: Ben Darnell
 * Readings
   * [The original Raft paper](https://raft.github.io/raft.pdf)
-  * (Optional and related) [Viewstamped Replication Revisited](http://pmg.csail.mit.edu/papers/vr-revisited.pdf)
+  * (Optional) [Viewstamped Replication Revisited](http://pmg.csail.mit.edu/papers/vr-revisited.pdf)
+  * (Optional) [Living Without Atomic Clocks blog post](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/)
   * (Optional) [Raft Refloated](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf) 
   * (Optional) [Google's Paxos Made LIve](https://research.google.com/archive/paxos_made_live.html)
 * Reading Questions:
