@@ -107,6 +107,10 @@ Students are expected to actively participate in discussions.
   * (Optional and related) [Viewstamped Replication Revisited](http://pmg.csail.mit.edu/papers/vr-revisited.pdf)
   * (Optional) [Raft Refloated](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf) 
   * (Optional) [Google's Paxos Made LIve](https://research.google.com/archive/paxos_made_live.html)
+* Reading Questions:
+  * What distinguishes Raft from (Multi)paxos?  Include technical reasons as well as other reasons.
+  * Provide a simple example of how Raft recovers from a leader failure.  A simple way is to list the state at each node at every time step, and use english to describe what happens between each time step.
+  * Raft argues that it is more understandable.  What evidence would be sufficient to show that this is the case?  How does it compare with what the authors show?
 
 3/14: Spring Recess
 
