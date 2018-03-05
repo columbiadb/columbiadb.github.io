@@ -111,6 +111,8 @@ Students are expected to actively participate in discussions.
   * What distinguishes Raft from (Multi)paxos?  Include technical reasons as well as other reasons.
   * Provide a simple example of how Raft recovers from a leader failure.  A simple way is to list the state at each node at every time step, and use english to describe what happens between each time step.
   * Raft argues that it is more understandable.  What evidence would be sufficient to show that this is the case?  How does it compare with what the authors show?
+  * What was the unmet need or opportunity? (1-2 sentences)
+  * Include 1+ question to ask the speaker.
 
 3/14: Spring Recess
 
