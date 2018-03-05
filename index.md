@@ -112,7 +112,7 @@ Students are expected to actively participate in discussions.
   * Provide a simple example of how Raft recovers from a leader failure.  A simple way is to list the state at each node at every time step, and use english to describe what happens between each time step.
   * Suppose the clocks on all nodes are _perfectly synchronized_ (e.g., node i's clock is exactly the same as node j's clock).  Which part of raft is still necessary?
   * Raft argues that it is more understandable.  What evidence would be sufficient to show that this is the case?  How does it compare with what the authors show?
-  * What was the unmet need or opportunity? (1-2 sentences)
+  * Why did the authors develop raft in the first place?
   * Include 1+ question to ask the speaker.
 
 3/14: Spring Recess
