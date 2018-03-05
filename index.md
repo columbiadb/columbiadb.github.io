@@ -20,6 +20,12 @@ Students are expected to actively participate in discussions.
 
 #### Schedule
 
+Lecture schedule
+
+* 4-5PM: lecture/discussion 
+* 5-6PM: guest lecture
+
+
 1/17: Introduction
 * Presenter: Eugene
 
