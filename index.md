@@ -124,6 +124,32 @@ Students are expected to actively participate in discussions.
 
 4/04: 3 Timeless ideas in SQLite
 * Presenter: [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp)
+* Readings and Questions
+  * [No Silver Bullet - Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+    *  What accidental complexities in database systems have been mitigated by the SQL language?
+    *  What additional accidental complexities have not been addressed by SQL?
+    *  Can the query planner in an SQL database engine be considered an example of an AI or Expert System or as an implementation of an Automatic Programming system?
+  * [About SQLite](https://sqlite.org/about.html)  -- it's pretty amazing!
+  * [Appropriate Uses for SQLite](https://sqlite.org/whentouse.html)
+    * Some applications transfer information between client and server by
+      stuffing the content into an SQLite database and sending the database
+      file over the wire. What are some advantages and disadvantages to
+      this approach compared to sending the content as JSON, a ZIP Archive,
+      or a bespoke binary format?
+		*  Git, the most widely used distributed version control system today,
+   	   uses a bespoke key/value database format call a "pack-file" both
+   	   to store content and to transfer content over the wire when syncing
+   	   or cloning. The value for each entry is either the content of a file
+   	   being versioned, or a binary object describing relationships between
+   	   files. The key is a SHA1 hash of the content. What if Git had been
+   	   designed to use SQLite, or some other embedded relational database,
+   	   instead of a key/value store? Would Git be a better or a poorer product
+   	   if it used an SQLite database in place of pack-files? What
+   	   impact would using SQLite versus pack-files have on performance,
+   	   reliability, storage efficiency, and extensibility? If you were
+   	   designing a replacement or follow-on to Git, what kind of database
+   	   would you use for local storage, server-side storage, and for transfer?
+  
 
 
 4/11: LogicBlox
