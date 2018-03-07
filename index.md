@@ -106,7 +106,7 @@ Lecture schedule
   * One or more questions for the speakers
     
 
-3/07: Cockroach Labs: Raft Made Complex
+3/07: Cockroach Labs: Raft Made Complex (cancelled)
 * Presenter: Ben Darnell
 * Readings
   * [The original Raft paper](https://raft.github.io/raft.pdf)
