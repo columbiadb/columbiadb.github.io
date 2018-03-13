@@ -114,6 +114,7 @@ Lecture schedule
   * (Optional) [Living Without Atomic Clocks blog post](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/)
   * (Optional) [Raft Refloated](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf) 
   * (Optional) [Google's Paxos Made LIve](https://research.google.com/archive/paxos_made_live.html)
+  * (Optional) [Anna: A Crazy Fast, Super-Scalable, Flexibly Consistent KVS](https://rise.cs.berkeley.edu/blog/anna-kvs/)
 * Reading Questions:
   * Provide a simple example of how Raft recovers from a leader failure.  A simple way is to list the state at each node at every time step, and use english to describe what happens between each time step.
   * Suppose the clocks on all nodes are _perfectly synchronized_ (e.g., node i's clock is exactly the same as node j's clock).  Which part of raft is still necessary?
