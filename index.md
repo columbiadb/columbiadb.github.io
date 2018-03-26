@@ -126,8 +126,18 @@ Lecture schedule
 
 3/21: Midterm
 
-3/28: TBA
+3/28: The VisTrails Project
 * Presenter: [Juliana Freire](https://en.m.wikipedia.org/wiki/Juliana_Freire)
+* Readings and Questions
+  * [VisTrails overview](./files/papers/vistrails-aosa.pdf)
+    * What was the unmet need or opportunity? 
+    * What were existing approaches and why were they not used? Or could they have been used? 
+    * What was the key technical idea? 
+  * [Querying and Creating Visualizations by Analogy](./files/papers/vistrails-tvcg-analogy.pdf)
+    * What is the primary problem, and the main solution idea, in this paper?
+    * Describe a concrete example of this issue outside of the domains of VisTrails and scientific visualization?
+    * What aspects of the solution applies to your example?  What extensions are needed?
+  * (Optional) [Using VisTrails and Provenance for Teaching Scientific Visualization](./files/papers/vistrails-teach.pdf)
 
 4/04: 3 Timeless ideas in SQLite
 * Presenter: [Richard Hipp](https://en.m.wikipedia.org/wiki/D._Richard_Hipp)
