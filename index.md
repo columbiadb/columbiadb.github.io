@@ -124,12 +124,12 @@ Lecture schedule
 
 3/14: Spring Recess
 
-3/21: Snow Day
+3/21: Snow Day, class cancelled
 
 3/28: The VisTrails Project + Midterm
 * Presenter: [Juliana Freire](https://en.m.wikipedia.org/wiki/Juliana_Freire)
 * Readings and Questions
-  * [VisTrails overview](./files/papers/vistrails-aosa.pdf)
+  * (skim) [VisTrails overview](./files/papers/vistrails-aosa.pdf)
     * What was the unmet need or opportunity? 
     * What were existing approaches and why were they not used? Or could they have been used? 
     * What was the key technical idea? 
