@@ -124,9 +124,9 @@ Lecture schedule
 
 3/14: Spring Recess
 
-3/21: Midterm
+3/21: Snow Day
 
-3/28: The VisTrails Project
+3/28: The VisTrails Project + Midterm
 * Presenter: [Juliana Freire](https://en.m.wikipedia.org/wiki/Juliana_Freire)
 * Readings and Questions
   * [VisTrails overview](./files/papers/vistrails-aosa.pdf)
