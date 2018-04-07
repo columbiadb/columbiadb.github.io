@@ -179,3 +179,7 @@ Lecture schedule
 
 4/25: Project presentations
 
+5/2: (Extra class) Cockroach Labs: Raft Made Complex
+* Presenter: Ben Darnell
+
+
