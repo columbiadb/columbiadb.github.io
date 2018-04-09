@@ -29,13 +29,15 @@ Broadly speaking, the performance of a program can be improved in two ways:
 1. improving constant factors (e.g. reduce interpretation overhead, memory hierarchy optimizations (latency hiding), parallelization)
 2. improving asymptotics (e.g. sorting in O(n log n) vs in O(n^2))
 
-Q1 and 2:
+Q1: Discuss why traditional relational algebra operators are either unary or binary.  Consider the following aspects:
 
-* Why are the traditional relational algebra operators unary/binary?  What are the implications of doing this on constant factors? On asymptotics?  Think about how you would reason about and execute a 10-way join operator vs a chain of 9 binary join operators.
-* What are the implications of binary operators on the way DB’s generate and optimize query plans.
+* How databases generate and optimize query plans (e.g., join order)
+* How would we optimize a K-way (e.g., 10-way) join operator vs a chain of 9 binary join operators.
+* How do these aspects affect constant factors and asymptotics.
 
 Seminal work from the early 1970’s by researchers like Codd working on relational database and Kowalski on Prolog showed that it is possible to build systems that can compute the correct answers to declarative programs written in subsets of first order logic.  Their work established that it can be done but didn’t make any guarantees about the computing resources needed to do it.  The lack asymptotic complexity guarantees on the evaluation of such programs limited the utility of declarative of programming systems to important but niche subsystems like databases.  Most systems today are still built primarily with imperative programming languages.  
 
-Q3: 
+Q2: Can we build databases systems that make asymptotic complexity guarantees on query evaluation?  
 
-* Can we build databases systems that make asymptotic complexity guarantees on query evaluation?  For what fragments of first order logic can such guarantees be made?  (start with the most trivial example, e.g., select 1, and move more complex)
+* For what fragments of first order logic can such guarantees be made? 
+* Hint: start with the most trivial example, e.g., `select 1`, and move more complex
