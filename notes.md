@@ -1,4 +1,16 @@
-Database Topics in Research and Practice
+# Midterm-
+
+Levels of abstraction
+
+* levels
+  * many many papers are of the form "it is possible, so we did it".  but why?
+  * the technical details defines what is possible
+  * what is important defines which technical details to pursue
+* the basic assumption in research is that you can figure it out
+  * read a paper, understand how it works, understand the implications
+  * other classes train you to do this.
+
+# Database Topics in Research and Practice
 
 Dinners
 

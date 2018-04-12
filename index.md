@@ -172,10 +172,15 @@ Lecture schedule
 4/11: LogicBlox
 * Presenter: Molham Aref
 * Reading: [Design and Implementation of the LogicBlox System](http://www.cs.ox.ac.uk/dan.olteanu/papers/logicblox-sigmod15.pdf)
+* [Click here for the Questions](./logicblox_questions)
 
 4/18: TBA
 * Presenter: [Evan Jones](http://www.evanjones.ca/)
 * Reading: TBA
 
 4/25: Project presentations
+
+5/2: (Extra class) Cockroach Labs: Raft Made Complex
+* Presenter: Ben Darnell
+
 
