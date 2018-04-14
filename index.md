@@ -176,7 +176,13 @@ Lecture schedule
 
 4/18: TBA
 * Presenter: [Evan Jones](http://www.evanjones.ca/)
-* Reading: TBA
+* Reading: 
+  * (required) [The Dataflow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf)
+* Questions
+  * The paper proposes a "Dataflow Model".  What exactly are the fundamental parts of the dataflow model?  (not very clear in the paper)
+  * The paper claims Dataflow "balances correctness". 
+    * What do they mean by the word "correctness"? 
+    * What are the advantages and disadvantage in being "correct"?
 
 4/25: Project presentations
 
