@@ -171,8 +171,12 @@ Lecture schedule
 
 4/11: LogicBlox
 * Presenter: Molham Aref
-* Reading: [Design and Implementation of the LogicBlox System](http://www.cs.ox.ac.uk/dan.olteanu/papers/logicblox-sigmod15.pdf)
+* Reading: 
+  * (required) [Design and Implementation of the LogicBlox System](http://www.cs.ox.ac.uk/dan.olteanu/papers/logicblox-sigmod15.pdf)
+  * (optional) [Datalog Primer](./files/papers/datalog.pdf)
+  * (optional) [Optimal Joins](./files/papers/optimaljoin.pdf)
 * [Click here for the Questions](./logicblox_questions)
+
 
 4/18: TBA
 * Presenter: [Evan Jones](http://www.evanjones.ca/)
