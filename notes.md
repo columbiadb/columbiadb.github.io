@@ -1,3 +1,18 @@
+# Future
+
+* rodbrooks AI blogpost discusses the technological reality vs general AI beliefs based on over-abstraction
+  * is the beleif/vision based on technology or culture or creativity?  If former, then better understand the technology deeply
+* contradictory advice between there is a range (upper and lower bounds) wrt the optimal mode
+  * examples:
+* presentation
+  * first describe how a query plan exuecutes step by step.  it will confuse any audience because there's no purpose
+  * then describe by starting with purpose (semantics, why those semantics, and what is important), then qury plan execution makes sense
+* presentation
+  * robbie's popfactor slides before and after
+* writing
+  * DNI paper at different stages: NIPS initial submission, thibault's initial outline, my first pass, my second pass using kevin knight's paper, final submission
+
+
 # Midterm-
 
 Levels of abstraction
